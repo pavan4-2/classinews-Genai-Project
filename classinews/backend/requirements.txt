@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.1.0
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+pandas
+scikit-learn
+nltk
+joblib
+python-dotenv
